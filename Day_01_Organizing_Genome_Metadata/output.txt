@@ -1,0 +1,22 @@
+============================================================
+        Genome Metadata Summary
+============================================================
+Organism            : Escherichia coli
+Strain              : K-12
+Substrain           : MG1655
+Genome Size (bp)    : 4,641,652 bp
+Gene Count          : 4288
+GC Content (%)      : 50.8
+============================================================
+
+Base Composition (%)
+------------------------------
+A : 24.7%
+T : 24.5%
+G : 25.4%
+C : 25.4%
+
+Biological Interpretation
+------------------------------
+The genome of Escherichia coli K-12 MG1655 contains approximately 4,288 genes distributed across a genome of 4,641,652 base pairs.
+A GC content of 50.8% provides important information about genome composition and is commonly used in comparative genomics and molecular biology.
