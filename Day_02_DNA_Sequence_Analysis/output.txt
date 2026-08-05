@@ -1,0 +1,58 @@
+============================================================
+DNA Sequence Successfully Loaded
+============================================================
+ATGCGATCGATCGATCGATATTTGCTAGCGCGATATCGCGCGGATCC
+
+✅ DNA sequence validation passed.
+
+============================================================
+Basic DNA Sequence Statistics
+============================================================
+Sequence Length : 47 bp
+Adenine (A)     : 10
+Thymine (T)     : 12
+Guanine (G)     : 13
+Cytosine (C)    : 12
+
+============================================================
+GC Content Analysis
+============================================================
+GC Count        : 25
+AT Count        : 22
+GC Content      : 53.19%
+AT Content      : 46.81%
+
+============================================================
+Start and Stop Codon Analysis
+============================================================
+Start Codon : ATG
+Stop Codon  : TCC
+✅ Valid Start Codon Detected
+❌ No Stop Codon Detected
+
+============================================================
+DNA to RNA Transcription
+============================================================
+DNA : ATGCGATCGATCGATCGATATTTGCTAGCGCGATATCGCGCGGATCC
+RNA : AUGCGAUCGAUCGAUCGAUAUUUGCUAGCGCGAUAUCGCGCGGAUCC
+
+============================================================
+Scientific Report
+============================================================
+Sequence Length      : 47 bp
+Adenine (A)          : 10
+Thymine (T)          : 12
+Guanine (G)          : 13
+Cytosine (C)         : 12
+GC Content           : 53.19%
+AT Content           : 46.81%
+Start Codon          : ATG
+Stop Codon           : TCC
+
+Biological Interpretation
+------------------------------------------------------------
+The DNA fragment contains 47 base pairs.
+The GC content is 53.19%, indicating the proportion of guanine and cytosine nucleotides in this sequence.
+The sequence begins with the canonical start codon (ATG).
+The sequence does not end with a standard stop codon.
+These analyses provide a basic overview of the sequence before performing advanced bioinformatics analyses such as sequence alignment, gene prediction, or genome annotation.
