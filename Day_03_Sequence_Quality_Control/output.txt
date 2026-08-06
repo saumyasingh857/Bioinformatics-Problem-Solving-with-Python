@@ -1,0 +1,98 @@
+============================================================
+DNA Sequences Successfully Loaded
+============================================================
+Total Sequences Loaded: 7
+
+============================================================
+Sequences
+============================================================
+Sequence 1: ATGCGATCGATCG
+Sequence 2: ATGCGXTAGCTA
+Sequence 3: ATGC
+Sequence 4: GGCTAGCTAGCTA
+Sequence 5: ATGCGATCGATCGATCG
+Sequence 6: ATGCGATCGATN
+Sequence 7: CGTAGCTAGCTAGCTAGC
+
+============================================================
+Sequence Length Quality Check
+============================================================
+
+Sequence 1
+Length : 13 bp
+✅ PASS : Sequence length is acceptable.
+
+Sequence 2
+Length : 12 bp
+✅ PASS : Sequence length is acceptable.
+
+Sequence 3
+Length : 4 bp
+⚠ FAIL : Sequence is too short.
+
+Sequence 4
+Length : 13 bp
+✅ PASS : Sequence length is acceptable.
+
+Sequence 5
+Length : 17 bp
+✅ PASS : Sequence length is acceptable.
+
+Sequence 6
+Length : 12 bp
+✅ PASS : Sequence length is acceptable.
+
+Sequence 7
+Length : 18 bp
+✅ PASS : Sequence length is acceptable.
+
+============================================================
+Invalid Nucleotide Detection
+============================================================
+
+Sequence 1
+No invalid nucleotides found.
+
+Sequence 2
+Invalid nucleotide detected: X
+
+Sequence 3
+No invalid nucleotides found.
+
+Sequence 4
+No invalid nucleotides found.
+
+Sequence 5
+No invalid nucleotides found.
+
+Sequence 6
+Invalid nucleotide detected: N
+
+Sequence 7
+No invalid nucleotides found.
+
+============================================================
+Final Quality Control Report
+============================================================
+Sequence 1: ✅ PASS
+Sequence 2: ❌ FAIL (Invalid Base: X)
+Sequence 3: ❌ FAIL (Too Short)
+Sequence 4: ✅ PASS
+Sequence 5: ✅ PASS
+Sequence 6: ❌ FAIL (Invalid Base: N)
+Sequence 7: ✅ PASS
+
+============================================================
+QC Summary
+============================================================
+Total Sequences : 7
+Passed          : 4
+Failed          : 3
+Pass Rate       : 57.14%
+
+============================================================
+Biological Interpretation
+============================================================
+Out of 7 DNA sequences, 4 passed the quality-control checks while 3 failed.
+Sequences that are too short or contain invalid nucleotides should be removed before downstream bioinformatics analyses.
+Quality control is an essential preprocessing step before sequence alignment, genome assembly, variant calling, and gene prediction.
