@@ -1,0 +1,125 @@
+============================================================
+NUCLEOTIDE COMPOSITION ANALYSIS
+============================================================
+Total Sequences Loaded: 5
+
+============================================================
+NUCLEOTIDE COUNTS
+============================================================
+
+Sequence 1
+A : 4
+T : 4
+G : 5
+C : 4
+
+Sequence 2
+A : 5
+T : 5
+G : 3
+C : 3
+
+Sequence 3
+A : 2
+T : 2
+G : 6
+C : 6
+
+Sequence 4
+A : 8
+T : 8
+G : 0
+C : 0
+
+Sequence 5
+A : 0
+T : 0
+G : 8
+C : 8
+
+============================================================
+NUCLEOTIDE COMPOSITION (%)
+============================================================
+
+Sequence 1
+A : 23.53%
+T : 23.53%
+G : 29.41%
+C : 23.53%
+
+Sequence 2
+A : 31.25%
+T : 31.25%
+G : 18.75%
+C : 18.75%
+
+Sequence 3
+A : 12.50%
+T : 12.50%
+G : 37.50%
+C : 37.50%
+
+Sequence 4
+A : 50.00%
+T : 50.00%
+G : 0.00%
+C : 0.00%
+
+Sequence 5
+A : 0.00%
+T : 0.00%
+G : 50.00%
+C : 50.00%
+
+============================================================
+DOMINANT NUCLEOTIDE
+============================================================
+Sequence 1: G (5 bases)
+Sequence 2: A (5 bases)
+Sequence 3: G (6 bases)
+Sequence 4: A (8 bases)
+Sequence 5: G (8 bases)
+
+============================================================
+FINAL NUCLEOTIDE COMPOSITION REPORT
+============================================================
+
+Sequence 1
+Length          : 17 bp
+A               : 4
+T               : 4
+G               : 5
+C               : 4
+Dominant Base   : G
+
+Sequence 2
+Length          : 16 bp
+A               : 5
+T               : 5
+G               : 3
+C               : 3
+Dominant Base   : A
+
+Sequence 3
+Length          : 16 bp
+A               : 2
+T               : 2
+G               : 6
+C               : 6
+Dominant Base   : G
+
+Sequence 4
+Length          : 16 bp
+A               : 8
+T               : 8
+G               : 0
+C               : 0
+Dominant Base   : A
+
+Sequence 5
+Length          : 16 bp
+A               : 0
+T               : 0
+G               : 8
+C               : 8
+Dominant Base   : G
