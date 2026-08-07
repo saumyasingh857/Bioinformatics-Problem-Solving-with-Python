@@ -1,0 +1,44 @@
+============================================================
+GC CONTENT ANALYSIS
+============================================================
+Total Sequences Loaded: 4
+
+============================================================
+GC CONTENT RESULTS
+============================================================
+Sequence 1: 52.38%
+Sequence 2: 0.00%
+Sequence 3: 100.00%
+Sequence 4: 52.38%
+
+============================================================
+GC CONTENT CLASSIFICATION
+============================================================
+Sequence 1: 52.38% → Moderate GC
+Sequence 2: 0.00% → Low GC
+Sequence 3: 100.00% → High GC
+Sequence 4: 52.38% → Moderate GC
+
+============================================================
+FINAL GC CONTENT REPORT
+============================================================
+
+Sequence 1
+Length         : 21 bp
+GC Content     : 52.38%
+Classification : Moderate GC
+
+Sequence 2
+Length         : 20 bp
+GC Content     : 0.00%
+Classification : Low GC
+
+Sequence 3
+Length         : 20 bp
+GC Content     : 100.00%
+Classification : High GC
+
+Sequence 4
+Length         : 21 bp
+GC Content     : 52.38%
+Classification : Moderate GC
